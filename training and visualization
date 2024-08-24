@@ -1,0 +1,88 @@
+#download the necessary software to your SageMaker workspace
+pip install pandas scikit-learn
+pip install matplotlib seaborn
+
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
+
+# Load training data from CSV
+train_csv_path = 'path_to_your_training_data.csv'
+train_data = pd.read_csv(train_csv_path)
+
+# Load testing data from CSV
+test_csv_path = 'path_to_your_testing_data.csv'
+test_data = pd.read_csv(test_csv_path)
+
+# Specify the column name for the target variable
+target_column = 'target'  # replace 'target' with the actual target column name
+
+# Split the data into features (X) and target (y)
+X_train = train_data.drop(columns=[target_column])
+y_train = train_data[target_column]
+
+X_test = test_data.drop(columns=[target_column])
+y_test = test_data[target_column]
+
+# Preprocessing: Standardize the features
+scaler = StandardScaler()
+X_train_scaled = scaler.fit_transform(X_train)
+X_test_scaled = scaler.transform(X_test)
+
+# Visualize correlation heatmap
+plt.figure(figsize=(12, 8))
+correlation_matrix = train_data.corr()
+sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', fmt='.2f')
+plt.title('Correlation Matrix')
+plt.show()
+
+# Train a Random Forest Classifier (you can replace this with any other model)
+model = RandomForestClassifier(n_estimators=100, random_state=42)
+model.fit(X_train_scaled, y_train)
+
+# Test the model
+y_pred = model.predict(X_test_scaled)
+
+# Evaluate the model
+accuracy = accuracy_score(y_test, y_pred)
+report = classification_report(y_test, y_pred)
+
+print(f'Accuracy: {accuracy * 100:.2f}%')
+print('Classification Report:')
+print(report)
+
+# Plot Confusion Matrix
+conf_matrix = confusion_matrix(y_test, y_pred)
+plt.figure(figsize=(8, 6))
+sns.heatmap(conf_matrix, annot=True, fmt='d', cmap='Blues')
+plt.title('Confusion Matrix')
+plt.xlabel('Predicted Label')
+plt.ylabel('True Label')
+plt.show()
+
+# If you want to save the model for later use
+import joblib
+model_path = 'trained_model.pkl'
+joblib.dump(model, model_path)
+
+print(f'Model saved to {model_path}')
+
+#Making our correlation heatmap
+plt.figure(figsize=(12, 8))
+correlation_matrix = train_data.corr()
+sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', fmt='.2f')
+plt.title('Correlation Matrix')
+plt.show()
+
+#Making our confusion matrix
+conf_matrix = confusion_matrix(y_test, y_pred)
+plt.figure(figsize=(8, 6))
+sns.heatmap(conf_matrix, annot=True, fmt='d', cmap='Blues')
+plt.title('Confusion Matrix')
+plt.xlabel('Predicted Label')
+plt.ylabel('True Label')
+plt.show()
