@@ -1,0 +1,96 @@
+﻿Genus,Species,Number of Instances,Area Size (sq. ft.),Neighborhood,Latitude,Longitude,Median Income,Native vs Non Native,Ecoregion,Initials
+Quercus,Virginiana,2,250,Mueller,30.29764,-97.7057,84531,1,0,M.S
+Bauhinia ,Purpurea,15,250,Mueller,30.29764,-97.7057,84531,0,0,M.S
+Lagerstroemia,Indica,1,250,Mueller,30.29764,-97.7057,84531,0,0,M.S
+Quercus ,Bicolor,1,250,Mueller,30.29764,-97.7057,84531,0,0,M.S
+Quercus,Velutina,1,250,Mueller,30.29764,-97.7057,84531,1,0,M.S
+Carya,Illinoinensis,6,250,Mueller,30.29764,-97.7057,84531,1,0,M.S
+Salix,Babylonica,1,250,Mueller,30.29764,-97.7057,84531,0,0,M.S
+Taxodium,Distichum,8,250,Mueller,30.29764,-97.7057,84531,1,0,M.S
+Ulmus,Parvifolia,2,250,Mueller,30.29764,-97.7057,84531,0,0,M.S
+Carya ,Illinoinensis,3,200,Barton Creek,30.26321,-97.76861,101477,1,0,M.S
+Castanea,Mollissima,1,200,Barton Creek,30.26321,-97.76861,101477,0,0,M.S
+Dermatophyllum,Secundiflorum,4,200,Barton Creek,30.26321,-97.76861,101477,1,0,M.S
+Fraxinus,Veluntina,1,200,Barton Creek,30.26321,-97.76861,101477,0,0,M.S
+Quercus,Acutissima,1,200,Barton Creek,30.26321,-97.76861,101477,0,0,M.S
+Styphnolobium,Japonicum,2,200,Barton Creek,30.26321,-97.76861,101477,0,0,M.S
+Ulmus,Crassifolia,1,200,Barton Creek,30.26321,-97.76861,101477,1,0,M.S
+Ulmus,Pumila,1,200,Barton Creek,30.26321,-97.76861,101477,0,0,M.S
+Amerlanchier,Ovalis,1,250,Zilker,30.26944,-97.75892,131827,0,0,M.S
+Cardiospermum,Halicacabum,4,250,Zilker,30.26944,-97.75892,131827,0,0,M.S
+Gledtisia,Triacanthos,6,250,Zilker,30.26944,-97.75892,131827,1,0,M.S
+Morus ,Rubra,2,250,Zilker,30.26944,-97.75892,131827,1,0,M.S
+Populus,Deltoides,3,250,Zilker,30.26944,-97.75892,131827,1,0,M.S
+Rosa ,Abietina,8,250,Zilker,30.26944,-97.75892,131827,0,0,M.S
+Albelia,Chinensis,1,300,South Lamar,30.2284925,-97.8000786,141071,0,0,M.S
+Erigeron,Canadensis,6,300,South Lamar,30.2284925,-97.8000786,141071,1,0,M.S
+Euonymus,Alatus,1,300,South Lamar,30.2284925,-97.8000786,141071,0,0,M.S
+Ilex,Opaca,1,300,South Lamar,30.2284925,-97.8000786,141071,1,0,M.S
+Lagerstroemia,Indica,1,300,South Lamar,30.2284925,-97.8000786,141071,0,0,M.S
+Muhlenbergia,Dumosa,5,300,South Lamar,30.2284925,-97.8000786,141071,0,0,M.S
+Quercus,Fusiformis,5,300,South Lamar,30.2284925,-97.8000786,141071,1,0,M.S
+Quercus,Virginiana,2,300,South Lamar,30.2284925,-97.8000786,141071,1,0,M.S
+Ipomoea,Cordatotriloba,1,250,South Congress,30.2532751,-97.7381978,91719,1,0,M.S
+Juglans,Nigra,2,250,South Congress,30.2532751,-97.7381978,91719,1,0,M.S
+Latana,Camara,1,250,South Congress,30.2532751,-97.7381978,91719,1,0,M.S
+Leucaena,Leucocephala,1,250,South Congress,30.2532751,-97.7381978,91719,0,0,M.S
+Malvaviscus,Arboreus,2,250,South Congress,30.2532751,-97.7381978,91719,1,0,M.S
+Markhamia,Zanzibarica,1,250,South Congress,30.2532751,-97.7381978,91719,1,0,M.S
+Musa,Velutina,3,250,South Congress,30.2532751,-97.7381978,91719,0,0,M.S
+Prunus,Perisca,1,250,South Congress,30.2532751,-97.7381978,91719,0,0,M.S
+Punica,Granatum,1,250,South Congress,30.2532751,-97.7381978,91719,0,0,M.S
+Quercus,Virginiana,1,250,South Congress,30.2532751,-97.7381978,91719,1,0,M.S
+Solidago,Altissima,9,250,South Congress,30.2532751,-97.7381978,91719,1,0,M.S
+Agave,Parryi,6,300,West Downtown,30.2855739,-97.735173,54779,1,0,M.S
+Chasmanthium,Latifolum,70,300,West Downtown,30.2855739,-97.735173,54779,1,0,M.S
+Hamelia,Patens,6,300,West Downtown,30.2855739,-97.735173,54779,0,0,M.S
+Hesperaloe,Parviflora,9,300,West Downtown,30.2855739,-97.735173,54779,1,0,M.S
+Latana ,Camara,7,300,West Downtown,30.2855739,-97.735173,54779,1,0,M.S
+Latana,Viburnoides,3,300,West Downtown,30.2855739,-97.735173,54779,1,0,M.S
+Quercus,Virginiana,3,300,West Downtown,30.2855739,-97.735173,54779,1,0,M.S
+Sporobolus,Heterolepis,45,300,West Downtown,30.2855739,-97.735173,54779,1,0,M.S
+Bambusa,Multiplex,13,200,Barton Creek,30.25738,-97.75073,101477,0,0,M.S
+Carya ,Illinoinensis,2,200,Barton Creek,30.25738,-97.75073,101477,1,0,M.S
+Hesperaloe,Parviflora,8,200,Barton Creek,30.25738,-97.75073,101477,1,0,M.S
+Ilex,Cornuta,14,200,Barton Creek,30.25738,-97.75073,101477,0,0,M.S
+Lahgerstroemia,Indica,9,200,Barton Creek,30.25738,-97.75073,101477,0,0,M.S
+Nandina,Domestica,20,200,Barton Creek,30.25738,-97.75073,101477,0,0,M.S
+Tradescantia,Pallida,1,200,Barton Creek,30.25738,-97.75073,101477,0,0,M.S
+Carya,Illinoinensis,1,300,Barton Creek,30.261898,-97.7543243,157135,1,0,M.S
+Helichrysum,Petiolare,2,300,Barton Creek,30.261898,-97.7543243,157135,0,0,M.S
+Lagerstroemia,Speciosa,5,300,Barton Creek,30.261898,-97.7543243,157135,0,0,M.S
+Latana,Montevidensis,9,300,Barton Creek,30.261898,-97.7543243,157135,0,0,M.S
+Lirope,Muscari,4,300,Barton Creek,30.261898,-97.7543243,157135,0,0,M.S
+Melampodium,Leucanthum,2,300,Barton Creek,30.261898,-97.7543243,157135,1,0,M.S
+Morus ,Indica,1,300,Barton Creek,30.261898,-97.7543243,157135,0,0,M.S
+Morus ,Rubra,1,300,Barton Creek,30.261898,-97.7543243,157135,1,0,M.S
+Quercus,Virginiana,1,300,Barton Creek,30.261898,-97.7543243,157135,1,0,M.S
+Taxodium,Distichum,5,300,Barton Creek,30.261898,-97.7543243,157135,1,0,M.S
+Wisteria,Floribunda,1,300,Barton Creek,30.261898,-97.7543243,157135,0,0,M.S
+Cotoneaster,Integerrimus,5,250,Onion Creek,30.1294948,-97.646886,135714,0,0,M.S
+Sorghum,Halpense,75,250,Onion Creek,30.1294948,-97.646886,135714,0,0,M.S
+Eurphorbia,Prostrata,9,250,Onion Creek,30.1294948,-97.646886,135714,0,0,M.S
+Opuntia,Ficus-Indica,1,250,Onion Creek,30.1294948,-97.646886,135714,0,0,M.S
+Quercus,Virginiana,1,250,Onion Creek,30.1294948,-97.646886,135714,1,0,M.S
+Cynodon,Dactylon,26,250,Onion Creek,30.1294948,-97.646886,135714,0,0,M.S
+Eclipta,Prostrata,2,250,Onion Creek,30.1294948,-97.646886,135714,1,0,M.S
+Ipomoea,Lacunosa,21,250,Onion Creek,30.1294948,-97.646886,135714,1,0,M.S
+Brahea,Armata,2,200,Central East Austin,30.2649403,-97.7230339,121000,0,1,M.S
+Lagerstroemia,Indica,4,200,Central East Austin,30.2649403,-97.7230339,121000,0,1,M.S
+Prosopis,Glandulosa,2,200,Central East Austin,30.2649403,-97.7230339,121000,1,1,M.S
+Magnolia,Grandiflora,1,200,Central East Austin,30.2649403,-97.7230339,121000,1,1,M.S
+Phyllostachys,Aurea,5,200,Central East Austin,30.2649403,-97.7230339,121000,0,1,M.S
+Rosa ,Pendulina,3,200,Central East Austin,30.2649403,-97.7230339,121000,0,1,M.S
+Loropetalum,Chinense,7,200,Central East Austin,30.2649403,-97.7230339,121000,0,1,M.S
+Quercus,Virginiana,3,250,Onion Creek,30.1354336,-97.763127,135714,1,0,M.S
+Phlomis,Purpurea,3,250,Onion Creek,30.1354336,-97.763127,135714,0,0,M.S
+Salvia,Greggii,3,250,Onion Creek,30.1354336,-97.763127,135714,1,0,M.S
+Dietes,Bicolor,1,250,Onion Creek,30.1354336,-97.763127,135714,0,0,M.S
+Nassella,Tenuissimia,7,250,Onion Creek,30.1354336,-97.763127,135714,1,0,M.S
+Carex,Macrocephala,14,250,Onion Creek,30.1354336,-97.763127,135714,0,0,M.S
+Lecophyllum,Frutescens,14,200,Onion Creek,30.1373261,-97.61055,135714,1,0,M.S
+Salvia,Farinacea,3,200,Onion Creek,30.1373261,-97.61055,135714,1,0,M.S
+Salvia,Greggii,2,200,Onion Creek,30.1373261,-97.61055,135714,1,0,M.S
+Quercus ,Virginiana,1,200,Onion Creek,30.1373261,-97.61055,135714,1,0,M.S
+Cercis,Canadensis,1,200,Onion Creek,30.1373261,-97.61055,135714,1,0,M.S
+Chitalpa,Tashkentensis,3,200,Onion Creek,30.1373261,-97.61055,135714,1,0,M.S
