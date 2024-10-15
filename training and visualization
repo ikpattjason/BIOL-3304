@@ -11,8 +11,13 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 
 # Load training data from CSV
-train_csv_path = 'path_to_your_training_data.csv'
-train_data = pd.read_csv(train_csv_path)
+import pandas as pd
+
+url = "https://raw.githubusercontent.com/ikpattjason/BIOL-3304/refs/heads/main/Central%20Texas%20Biodiversity%20Data%20Master%20List%20-%20BIOL%203304%20Fall%202024.csv"
+train_data = pd.read_csv(url)
+
+print(train_data.head()) 
+
 
 # Load testing data from CSV
 test_csv_path = 'path_to_your_testing_data.csv'
