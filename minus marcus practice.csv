@@ -303,17 +303,17 @@ Ulmus,P.¬†chinensis,1,1.773105891,300,Huston-Tillotson Univ.,30.2646,-97.7223
 Populus,P. deltoides,1,1.773105891,300,Huston-Tillotson Univ.,30.2646,-97.7223,"93,850",1,1
 Lagerstroemia,L. indica,2,1.773105891,300,Huston-Tillotson Univ.,30.2646,-97.7223,"93,850",0,1
 Rosa,R. Altissimo,8,1.773105891,300,Huston-Tillotson Univ.,30.2646,-97.7223,"93,850",0,1
-Platanus,racemosa,2,2.026229623,100,Northeast Side,29.312,-98.18.50,40129,1,1
-Ebenopsis,ebano,2,2.026229623,300,Northeast Side,29.312,-98.18.50,40129,1,1
-Populus,simonii,2,2.026229623,200,Northeast Side,29.312,-98.18.50,40129,1,1
-Quercus,virginiana,1,2.026229623,200,Northeast Side,29.312,-98.18.50,40129,1,1
+Platanus,racemosa,2,2.026229623,100,Northeast Side,29.312,-98.1850,40129,1,1
+Ebenopsis,ebano,2,2.026229623,300,Northeast Side,29.312,-98.1850,40129,1,1
+Populus,simonii,2,2.026229623,200,Northeast Side,29.312,-98.1850,40129,1,1
+Quercus,virginiana,1,2.026229623,200,Northeast Side,29.31.2,-98.1850,40129,1,1
 Garcinia,cymosa,2,2.026229623,100,Northeast Side,29.4863422,-98.41696,46688,1,0
 Cortaderia,speciosa,2,2.026229623,100,Northeast Side,29.4863422,-98.41696 ,46688,1,0
 Washingtonia,robusta,3,2.026229623,200,Northeast Side,29.48633422,-98.41696,46688,1,1
 Quercus,virginiana,1,2.026229623,100,Northeast Side,29.486422,-98.41696,46688,1,0
-Acacia,koaia,2,1.08219553,100,Great Northwest,29.3824,-98.37.31,124722,1,1
-Quercus,rotundifolia,3,1.08219553,100,Great Northwest,29.3824,-98.37.31,124722,1,1
-Phyllocladus,trichomanoides,3,1.08219553,100,Great Northwest,29.3824,-98.37.31,124097,1,1
+Acacia,koaia,2,1.08219553,100,Great Northwest,29.3824,-98.3731,124722,1,1
+Quercus,rotundifolia,3,1.08219553,100,Great Northwest,29.3824,-98.3731,124722,1,1
+Phyllocladus,trichomanoides,3,1.08219553,100,Great Northwest,29.3824,-98.3731,124097,1,1
 Phacelia,hirsuta,1,1.397991702,100,Downtown,29.483,-98.4662,62031,1,1
 Justicia,spicigera,8,1.397991702,300,Downtown,29.483,-98.4662,62031,1,1
 Zinnia,elegans,4,1.397991702,300,Downtown,29.483,-98.4662,62031,1,1
@@ -323,21 +323,21 @@ Dasylirion,texanum,7,0.97654826,300,Northeast Side,31.8923694,-98.6172693,71320,
 Chloride,gayana,100,0.97654826,100,Northeast Side,31.8923694,-98.6172693,71320,1,0
 Kerria,japonica,3,0.97654826,200,Northeast Side,31.8923694,-98.6172693,71320,1,0
 Dichondra,repens,100,0.97654826,100,Northeast Side,31.8923694,-98.6172693,71320,1,0
-Vitis,girdiana,2,0.97654826,100,Northeast Side,29.2727,-98.26.24,71320,1,1
-Opuntia,pilifera,1,0.97654826,100,Northeast Side,29.2727,-98.26.24,71320,1,0
-Prosopis,pallida,1,0.97654826,100,Northeast Side,29.2727,-98.26.24,71320,1,1
-Acanthospermum,Australe,100,1.131164269,100,Downtown,29.258,-98.29.1,89102,1,1
-Trachelospermum,Asiaticum,2,1.131164269,100,Downtown,29.258,-98.29.1,89102,1,1
-Muhlenbergia,Frondosa,100,1.131164269,100,Downtown,29.258,-98.29.1,89102,1,1
-Malvastrum ,Coromandelianum,100,1.131164269,100,Downtown,29.258,-98.29.1,89102,1,1
-Calyptocarpus,Vialis,100,0.055546075,100,Northwest,29.3118,-98.30.60,136833,1,0
-Callitris,Rhomboidea,1,0.055546075,100,Northwest,29.3118,-98.30.60,136833,1,0
-Buxus,Sempervines,4,0.253547675,200,Southwest,29.3743,-98.15.13,38754,1,1
-Eriodictyon,Angustifolium,2,0.253547675,100,Southwest,29.3743,-98.15.13,38754,1,0
-Rubus,Trivialis,100,0.253547675,100,Southwest,29.3743,-98.15.13,38754,1,1
-Inocarpus,Fagifer,2,0.150230804,100,Northeast Side,29.3354,-98.15.13,72110,1,0
-Crassula,Helmsii,100,0.150230804,100,Northeast Side,29.3354,-98.15.13,72110,1,1
-Bauhinia,Blakeana,1,0.150230804,100,Northeast Side,29.3354,-98.15.13,72110,1,1
+Vitis,girdiana,2,0.97654826,100,Northeast Side,29.2727,-98.2624,71320,1,1
+Opuntia,pilifera,1,0.97654826,100,Northeast Side,29.2727,-98.2624,71320,1,0
+Prosopis,pallida,1,0.97654826,100,Northeast Side,29.2727,-98.2624,71320,1,1
+Acanthospermum,Australe,100,1.131164269,100,Downtown,29.258,-98.291,89102,1,1
+Trachelospermum,Asiaticum,2,1.131164269,100,Downtown,29.258,-98.291,89102,1,1
+Muhlenbergia,Frondosa,100,1.131164269,100,Downtown,29.258,-98.291,89102,1,1
+Malvastrum ,Coromandelianum,100,1.131164269,100,Downtown,29.258,-98.291,89102,1,1
+Calyptocarpus,Vialis,100,0.055546075,100,Northwest,29.3118,-98.3060,136833,1,0
+Callitris,Rhomboidea,1,0.055546075,100,Northwest,29.3118,-98.3060,136833,1,0
+Buxus,Sempervines,4,0.253547675,200,Southwest,29.3743,-98.1513,38754,1,1
+Eriodictyon,Angustifolium,2,0.253547675,100,Southwest,29.3743,-98.1513,38754,1,0
+Rubus,Trivialis,100,0.253547675,100,Southwest,29.3743,-98.1513,38754,1,1
+Inocarpus,Fagifer,2,0.150230804,100,Northeast Side,29.3354,-98.1513,72110,1,0
+Crassula,Helmsii,100,0.150230804,100,Northeast Side,29.3354,-98.1513,72110,1,1
+Bauhinia,Blakeana,1,0.150230804,100,Northeast Side,29.3354,-98.1513,72110,1,1
 Lucuba,Palm,3,1.08219553,200,Northwest,29.5994,-98.6089,91366,1,1
 Copernicia,Alba,2,1.08219553,300,Northwest,29.5994,-98.6089,91366,1,1
 Kirkia,Acuminata,3,1.08219553,200,Northwest,29.5994,-98.6089,91366,1,0
