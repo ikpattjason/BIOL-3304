@@ -1,4 +1,4 @@
-﻿Genus,Species,Number of Instances,SWDI, Area Size (sq. .) ,Neighborhood,Latitude,Longitude,Median Income,Ecoregion,Native vs Non Native
+﻿Genus,Species,Number of Instances,SWDI, Area Size (sq.ft.) ,Neighborhood,Latitude,Longitude,Median Income,Ecoregion,Native vs Non Native
 Quercus,Virginiana,2,1.697960321,250,Mueller,30.29764,-97.7057,84531,1,0
 Bauhinia ,Purpurea,15,1.697960321,250,Mueller,30.29764,-97.7057,84531,0,0
 Lagerstroemia,Indica,1,1.697960321,250,Mueller,30.29764,-97.7057,84531,0,0
