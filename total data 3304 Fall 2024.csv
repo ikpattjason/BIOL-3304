@@ -1,4 +1,4 @@
-﻿Genus,Species,Number of Instances,SWDI,Area Size (sq.ft.),Neighborhood,Median Income,Latitude,Longitude,Ecoregion,Native vs Non Native
+﻿Genus,Species,Number of Instances,SWDI, Area Size (sq. .) ,Neighborhood,Latitude,Longitude,Median Income,Ecoregion,Native vs Non Native
 Quercus,Virginiana,2,1.697960321,250,Mueller,30.29764,-97.7057,84531,1,0
 Bauhinia ,Purpurea,15,1.697960321,250,Mueller,30.29764,-97.7057,84531,0,0
 Lagerstroemia,Indica,1,1.697960321,250,Mueller,30.29764,-97.7057,84531,0,0
@@ -94,65 +94,65 @@ Salvia,Greggii,2,1.306188384,200,Onion Creek,30.1373261,-97.61055,135714,1,0
 Quercus ,Virginiana,1,1.306188384,200,Onion Creek,30.1373261,-97.61055,135714,1,0
 Cercis,Canadensis,1,1.306188384,200,Onion Creek,30.1373261,-97.61055,135714,1,0
 Chitalpa,Tashkentensis,3,1.306188384,200,Onion Creek,30.1373261,-97.61055,135714,1,0
-Dactyloctenium ,aegyptium,4,1.132712607,300,Hills of Hays,29.85317,-97.93272,"46,016",0,1
-Trifolium ,repens,1,1.132712607,300,Hills of Hays,29.85317,-97.93272,"46,016",0,1
-poa ,supina,1500,1.132712607,300,Hills of Hays,29.85317,-97.93272,"46,016",0,1
-Axonopus ,Compressus,4000,1.132712607,300,Hills of Hays,29.85317,-97.93272,"46,016",0,1
-ehrharta ,erecta,200,1.132712607,300,Hills of Hays,29.85317,-97.93272,"46,016",0,1
-calyptocarpus ,Vialis,20,1.132712607,300,Hills of Hays,29.85317,-97.93272,"46,016",0,1
-Brachiaria ,mutica,2500,1.132712607,300,Hills of Hays,29.85317,-97.93272,"46,016",0,1
-Rottboellia ,cochinchinensis,9200,0.278769372,300,Wallace Addition,29.86419,-97.93515,"36,953",0,1
-Aristolochia ,erecta,800,0.278769372,300,Wallace Addition,29.86419,-97.93516,"36,953",0,1
-cynodon ,dactylon,5000,0.061819516,300,River Hills ,29.84593,-97.91824,"46,016",0,1
-Rottboellia ,cochinchinensis,4,0.061819516,300,River Hills ,29.84593,-97.91825,"46,016",0,1
-desmanthus ,pernambucanus,7,0.061819516,300,River Hills ,29.84593,-97.91826,"46,016",0,1
-corchorus ,siliquosus,35,0.061819516,300,River Hills ,29.84593,-97.91827,"46,016",0,1
-Drypetes,deplachei,2,0.061819516,300,River Hills ,29.84593,-97.91828,"46,016",0,1
-paspalum,conjugatum,7000,0.610864302,300,Blanco Gardens,29.87053,-97.92938,"38,102",0,1
-aldama,dentata,3000,0.610864302,300,Blanco Gardens,29.87053,-97.92939,"38,102",0,1
-phragmites ,mauritianus,4000,0.966839613,300,Two Rivers East,29.89221,-97.9294,"38,102",0,1
-Glyceria,maxima ,4000,0.966839613,300,Two Rivers East,29.89221,-97.92941,"38,102",0,1
-chenopodium,album,1000,0.966839613,300,Two Rivers East,29.89221,-97.92942,"38,102",0,1
-koelreuteria,bipinnata,2,0.966839613,300,Two Rivers East,29.89221,-97.92943,"38,102",0,1
-quercus ,texana ,1,0.036127432,300,East Guadalupe,29.87996,-97.92954,"34,240",1,1
-eragrostis,pectinacea,7500,0.036127432,300,East Guadalupe,29.87996,-97.92955,"34,240",0,1
-andrachne,telephiodes,10,0.036127432,300,East Guadalupe,29.87996,-97.92956,"34,240",0,1
-amramanthus,blitoides,7,0.036127432,300,East Guadalupe,29.87996,-97.92957,"34,240",1,1
-malvastrum,coromandelianum,3,0.036127432,300,East Guadalupe,29.87996,-97.92958,"34,240",0,1
-amaranthus,polygonoides,4,0.036127432,300,East Guadalupe,29.87996,-97.92959,"34,240",1,1
-parthenium ,hysterophorus,9,0.036127432,300,East Guadalupe,29.87996,-97.9296,"34,240",1,1
-euphorbia ,glyptosperma ,6,1.526801437,300,unincorporated ,29.83377,-97.93261,"46,016",0,1
-sorghum,halepense,5000,1.526801437,300,unincorporated ,29.83377,-97.93262,"46,016",0,1
-eragrostis,barrelieri,15,1.526801437,300,unincorporated ,29.83377,-97.93263,"46,016",0,1
-croton,monanthogynus,4,1.526801437,300,unincorporated ,29.83377,-97.93264,"46,016",1,1
-ambrosia,trifida ,20,1.526801437,300,unincorporated ,29.83377,-97.93265,"46,016",1,1
-chloris,pycnothrix,2500,1.526801437,300,unincorporated ,29.83377,-97.93266,"46,016",0,1
-paspalum,vaginatum,7500,1.526801437,300,unincorporated ,29.81472,-97.937,"46,016",0,1
-sporobolus,neglectus,2500,1.526801437,300,unincorporated ,29.81472,-97.938,"46,016",0,1
-ambrosia,confertiflora,17,1.526801437,300,unincorporated ,29.816,-97.94796,"46,016",0,1
-helianthus,petiolaris,9,1.526801437,300,unincorporated ,29.816,-97.94797,"46,016",0,1
-paspalum,setaceum,2500,1.526801437,300,unincorporated ,29.816,-97.94798,"46,016",1,1
-erigeron ,bellioidies,2,1.526801437,300,unincorporated ,29.816,-97.94799,"46,016",0,1
-polygonum,minimum,25,1.526801437,300,unincorporated ,29.816,-97.948,"46,016",0,1
-amphoria ,fruticosa ,3,1.553521305,300,Turkey Hollow,29.86323,-97.96835,"52,614",0,1
-cynodon ,nlemfuensis,13,1.553521305,300,Turkey Hollow,29.86323,-97.96836,"52,614",0,1
-Gomphocarpus,fruticosus,1,1.553521305,300,Turkey Hollow,29.86323,-97.96837,"52,614",0,1
-najas,guadalupensis,2,1.553521305,300,Turkey Hollow,29.86323,-97.96838,"52,614",1,1
-polemonium,micranthum,20,1.553521305,300,Turkey Hollow,29.86323,-97.96839,"52,614",0,1
-sida ,abutifolia,8,1.553521305,300,Turkey Hollow,29.86323,-97.9684,"52,614",0,1
-quercus ,polymorpha,1,1.553521305,300,Turkey Hollow,29.86323,-97.96841,"52,614",0,1
-colophospermum,mopane,1,1.553521305,300,Turkey Hollow,29.86323,-97.96842,"52,614",0,1
-croton,monanthogynus,5000,0.079341098,300,Heritage ,29.88281,-97.95845,"64,911",1,1
-digiteria ,eriantha,28,0.079341098,300,Heritage ,29.88281,-97.95846,"64,911",0,1
-Dermatophyllum,secundiflorum,5,0.079341098,300,Heritage ,29.88281,-97.95847,"64,911",1,1
-agave,decipiens,3,0.079341098,300,Heritage ,29.88281,-97.95848,"64,911",0,1
-lippia,origanoides,2,0.079341098,300,Heritage ,29.88281,-97.95849,"64,911",1,1
-setaria ,scheelei,14,0.079341098,300,Heritage ,29.88281,-97.9585,"64,911",1,1
-muhlenbergia,frondosa,5,0.079341098,300,Heritage ,29.88281,-97.95851,"64,911",0,1
-acacia ,verticillata,1,0.079341098,300,Heritage ,29.88281,-97.95852,"64,911",0,1
-sporobolus,fimbriatus,9900,0.005478708,300,Tanglewood,29.90442,-97.95492,"76,842",0,1
-Astragalius ,austriacus,4,0.005478708,300,Tanglewood,29.90442,-97.95493,"76,842",0,1
-vitis,arizonica,2,0.005478708,300,Tanglewood,29.90442,-97.95494,"76,842",0,1
+Dactyloctenium ,aegyptium,4,1.132712607,300,Hills of Hays,29.85317,-97.93272,46016,0,1
+Trifolium ,repens,1,1.132712607,300,Hills of Hays,29.85317,-97.93272,46016,0,1
+poa ,supina,1500,1.132712607,300,Hills of Hays,29.85317,-97.93272,46016,0,1
+Axonopus ,Compressus,4000,1.132712607,300,Hills of Hays,29.85317,-97.93272,46016,0,1
+ehrharta ,erecta,200,1.132712607,300,Hills of Hays,29.85317,-97.93272,46016,0,1
+calyptocarpus ,Vialis,20,1.132712607,300,Hills of Hays,29.85317,-97.93272,46016,0,1
+Brachiaria ,mutica,2500,1.132712607,300,Hills of Hays,29.85317,-97.93272,46016,0,1
+Rottboellia ,cochinchinensis,9200,0.278769372,300,Wallace Addition,29.86419,-97.93515,36953,0,1
+Aristolochia ,erecta,800,0.278769372,300,Wallace Addition,29.86419,-97.93516,36953,0,1
+cynodon ,dactylon,5000,0.061819516,300,River Hills ,29.84593,-97.91824,46016,0,1
+Rottboellia ,cochinchinensis,4,0.061819516,300,River Hills ,29.84593,-97.91825,46016,0,1
+desmanthus ,pernambucanus,7,0.061819516,300,River Hills ,29.84593,-97.91826,46016,0,1
+corchorus ,siliquosus,35,0.061819516,300,River Hills ,29.84593,-97.91827,46016,0,1
+Drypetes,deplachei,2,0.061819516,300,River Hills ,29.84593,-97.91828,46016,0,1
+paspalum,conjugatum,7000,0.610864302,300,Blanco Gardens,29.87053,-97.92938,38102,0,1
+aldama,dentata,3000,0.610864302,300,Blanco Gardens,29.87053,-97.92939,38102,0,1
+phragmites ,mauritianus,4000,0.966839613,300,Two Rivers East,29.89221,-97.9294,38102,0,1
+Glyceria,maxima ,4000,0.966839613,300,Two Rivers East,29.89221,-97.92941,38102,0,1
+chenopodium,album,1000,0.966839613,300,Two Rivers East,29.89221,-97.92942,38102,0,1
+koelreuteria,bipinnata,2,0.966839613,300,Two Rivers East,29.89221,-97.92943,38102,0,1
+quercus ,texana ,1,0.036127432,300,East Guadalupe,29.87996,-97.92954,34240,1,1
+eragrostis,pectinacea,7500,0.036127432,300,East Guadalupe,29.87996,-97.92955,34240,0,1
+andrachne,telephiodes,10,0.036127432,300,East Guadalupe,29.87996,-97.92956,34240,0,1
+amramanthus,blitoides,7,0.036127432,300,East Guadalupe,29.87996,-97.92957,34240,1,1
+malvastrum,coromandelianum,3,0.036127432,300,East Guadalupe,29.87996,-97.92958,34240,0,1
+amaranthus,polygonoides,4,0.036127432,300,East Guadalupe,29.87996,-97.92959,34240,1,1
+parthenium ,hysterophorus,9,0.036127432,300,East Guadalupe,29.87996,-97.9296,34240,1,1
+euphorbia ,glyptosperma ,6,1.526801437,300,unincorporated ,29.83377,-97.93261,46016,0,1
+sorghum,halepense,5000,1.526801437,300,unincorporated ,29.83377,-97.93262,46016,0,1
+eragrostis,barrelieri,15,1.526801437,300,unincorporated ,29.83377,-97.93263,46016,0,1
+croton,monanthogynus,4,1.526801437,300,unincorporated ,29.83377,-97.93264,46016,1,1
+ambrosia,trifida ,20,1.526801437,300,unincorporated ,29.83377,-97.93265,46016,1,1
+chloris,pycnothrix,2500,1.526801437,300,unincorporated ,29.83377,-97.93266,46016,0,1
+paspalum,vaginatum,7500,1.526801437,300,unincorporated ,29.81472,-97.937,46016,0,1
+sporobolus,neglectus,2500,1.526801437,300,unincorporated ,29.81472,-97.938,46016,0,1
+ambrosia,confertiflora,17,1.526801437,300,unincorporated ,29.816,-97.94796,46016,0,1
+helianthus,petiolaris,9,1.526801437,300,unincorporated ,29.816,-97.94797,46016,0,1
+paspalum,setaceum,2500,1.526801437,300,unincorporated ,29.816,-97.94798,46016,1,1
+erigeron ,bellioidies,2,1.526801437,300,unincorporated ,29.816,-97.94799,46016,0,1
+polygonum,minimum,25,1.526801437,300,unincorporated ,29.816,-97.948,46016,0,1
+amphoria ,fruticosa ,3,1.553521305,300,Turkey Hollow,29.86323,-97.96835,52614,0,1
+cynodon ,nlemfuensis,13,1.553521305,300,Turkey Hollow,29.86323,-97.96836,52614,0,1
+Gomphocarpus,fruticosus,1,1.553521305,300,Turkey Hollow,29.86323,-97.96837,52614,0,1
+najas,guadalupensis,2,1.553521305,300,Turkey Hollow,29.86323,-97.96838,52614,1,1
+polemonium,micranthum,20,1.553521305,300,Turkey Hollow,29.86323,-97.96839,52614,0,1
+sida ,abutifolia,8,1.553521305,300,Turkey Hollow,29.86323,-97.9684,52614,0,1
+quercus ,polymorpha,1,1.553521305,300,Turkey Hollow,29.86323,-97.96841,52614,0,1
+colophospermum,mopane,1,1.553521305,300,Turkey Hollow,29.86323,-97.96842,52614,0,1
+croton,monanthogynus,5000,0.079341098,300,Heritage ,29.88281,-97.95845,64911,1,1
+digiteria ,eriantha,28,0.079341098,300,Heritage ,29.88281,-97.95846,64911,0,1
+Dermatophyllum,secundiflorum,5,0.079341098,300,Heritage ,29.88281,-97.95847,64911,1,1
+agave,decipiens,3,0.079341098,300,Heritage ,29.88281,-97.95848,64911,0,1
+lippia,origanoides,2,0.079341098,300,Heritage ,29.88281,-97.95849,64911,1,1
+setaria ,scheelei,14,0.079341098,300,Heritage ,29.88281,-97.9585,64911,1,1
+muhlenbergia,frondosa,5,0.079341098,300,Heritage ,29.88281,-97.95851,64911,0,1
+acacia ,verticillata,1,0.079341098,300,Heritage ,29.88281,-97.95852,64911,0,1
+sporobolus,fimbriatus,9900,0.005478708,300,Tanglewood,29.90442,-97.95492,76842,0,1
+Astragalius ,austriacus,4,0.005478708,300,Tanglewood,29.90442,-97.95493,76842,0,1
+vitis,arizonica,2,0.005478708,300,Tanglewood,29.90442,-97.95494,76842,0,1
 Solanum,elaeagnifolium,9,0.941880896,282,Central East Austin,30.266396,-97.721521,94929,1,1
 Paspalum,vaginatum,5000,0.941880896,282,Central East Austin,30.266396,-97.721521,94929,1,1
 Calyptocarpus,vialis,1150,0.941880896,282,Central East Austin,30.266396,-97.721521,94929,0,1
@@ -226,89 +226,89 @@ Lantana,x,20,0.008305585,240,Circle C Ranch ,30.205586,-97.878217,56292,0,0
 Cylindropuntia,imbricata,10,0.008305585,240,Circle C Ranch ,30.205586,-97.878217,56292,1,0
 Quercus ,virginiana,7,0.008305585,240,Circle C Ranch ,30.205586,-97.878217,56292,1,0
 Cynodon ,dactylon,40000,0.008305585,240,Circle C Ranch ,30.205586,-97.878217,56292,0,0
-Quercus,Virginia,1,1.098047972,1000,St Edwards,30.229,-97.753,"43,677",1,1
-Avicennia,Germinans,2,1.098047972,1000,St Edwards,30.229,-97.753,"43,677",1,1
-Ilex,Vomitoria,3,1.098047972,1000,St Edwards,30.229,-97.753,"43,677",1,1
-Coccinia,Grandis,12,1.098047972,1000,St Edwards,30.229,-97.753,"43,677",1,1
-Calystegia,Atriplifolia,21,1.098047972,1000,St Edwards,30.229,-97.753,"43,677",1,1
-Ruscus,Aculeatus,10,1.098047972,1000,St Edwards,30.229,-97.753,"43,677",1,1
-Amaranthus,Caudatus,100,1.098047972,1000,St Edwards,30.229,-97.753,"43,677",1,1
-Taxodium,Distichum,1,1.058684086,1000,Lady Bird Lake,30.285,-97.74,"89,258",0,1
-Arundo,Donax,30,1.058684086,1000,Lady Bird Lake,30.285,-97.74,"89,258",0,1
-Quercus,Laceyi,4,1.058684086,1000,Lady Bird Lake,30.285,-97.74,"89,258",0,1
-Bauhina,Purpurea,2,1.058684086,1000,Lady Bird Lake,30.285,-97.74,"89,258",0,1
-Optunia,Ficus- Indica,31,1.058684086,1000,Lady Bird Lake,30.285,-97.74,"89,258",0,1
-Leucophyllum,Frutescens,1,1.058684086,1000,Lady Bird Lake,30.285,-97.74,"89,258",0,1
-Prosopis,Glandulosa,150,1.058684086,1000,Lady Bird Lake,30.285,-97.74,"89,258",0,1
-Toxicodendron,Radicans,5,1.058684086,1000,Lady Bird Lake,30.285,-97.74,"89,258",0,1
-Catharanthus,Roseus,6,1.235144652,400,Sunset Valley,30.229,-97.822,"141,250",1,1
-Cupaniopsis,Anacardioides,1,1.235144652,400,Sunset Valley,30.229,-97.822,"141,250",1,1
-Pittosporum,Tobira,3,1.235144652,400,Sunset Valley,30.229,-97.822,"141,250",1,1
-Cornus,Drummondii,5,1.235144652,400,Sunset Valley,30.229,-97.822,"141,250",1,1
-Agave,Havardiana,6,1.489767364,500,West University ,30.266,-97.7404,"112,988",0,1
-Asparagus,Densiflorus,4,1.489767364,500,West University ,30.266,-97.7404,"112,988",0,0
-Crassula,Ovata,5,1.489767364,500,West University ,30.266,-97.7404,"112,988",0,0
-Washington,Robusta,1,1.489767364,500,West University ,30.266,-97.7404,"112,988",0,1
-Dasyliron,Texanum,3,1.489767364,500,West University ,30.266,-97.7404,"112,988",0,1
-Aloe ,Vera,1,1.329661349,235,Windsor Park,30.2383,-97.7169,"64,245",1,1
-Syngonium,Podophyllum,1,1.329661349,235,Windsor Park,30.2383,-97.7169,"64,245",1,0
-Buxus,Sempervirens,2,1.329661349,235,Windsor Park,30.2383,-97.7169,"64,245",1,0
-Cereus Forbesii,Spiralis,2,1.329661349,235,Windsor Park,30.2383,-97.7169,"64,245",1,0
-Cuphea,Ilavea,75,1.192839079,1000,Travis Heights,30.233,-97.748,"114,572",0,1
-Datura,Inoxia,70,1.192839079,1000,Travis Heights,30.233,-97.748,"114,572",0,0
-Nephila,Clavata,2,1.192839079,1000,Travis Heights,30.233,-97.748,"114,572",0,1
-Caesalpinia,Pulcherrima,66,1.192839079,1000,Travis Heights,30.233,-97.748,"114,572",0,1
-Hibiscus,Coccineus,300,1.192839079,1000,Travis Heights,30.233,-97.748,"114,572",0,1
-Sceloporus,Jarrovii,1,1.192839079,1000,Travis Heights,30.233,-97.748,"114,572",0,1
-Anolis,Carolinensis,3,1.192839079,1000,Travis Heights,30.233,-97.748,"114,572",0,1
-Carya ,Illinoinensis,1,1.047285178,1000,Sherwood Oaks,30.232,-97.751,"114,572",1,1
-Clematis,Drummondii,160,1.047285178,1000,Sherwood Oaks,30.232,-97.751,"114,572",1,1
-Lantana,Camara,210,1.047285178,1000,Sherwood Oaks,30.232,-97.751,"114,572",1,1
-Iris,Pseudacorus,56,1.047285178,1000,Sherwood Oaks,30.232,-97.751,"114,572",1,1
-Hibiscus,Syracus,2,1.047285178,1000,Sherwood Oaks,30.232,-97.751,"114,572",1,1
-Lagerstroemia,Indica,2,1.047285178,1000,Sherwood Oaks,30.232,-97.751,"114,572",1,1
-Pyrus,Calleryana,2,1.039720771,400,Travis Heights,30.228,-97.733,"137,486",1,1
-Quercus,Robur,1,1.039720771,400,Travis Heights,30.228,-97.733,"137,486",1,1
-Butia,Capitata,1,1.039720771,400,Travis Heights,30.228,-97.733,"137,486",1,1
-Rose,Abietina,1,1.193549604,235,East Austin,30.2716,-97.7249,"86,556",1,0
-Cycas,Revoluta,1,1.193549604,235,East Austin,30.2716,-97.7249,"86,556",1,0
-Porophyllum,Ruderale,4,1.193549604,235,East Austin,30.2716,-97.7249,"86,556",1,0
-Elaeagnus,Pungens,4,1.193549604,235,East Austin,30.2716,-97.7249,"86,556",1,0
-Ashe,Juniper,1,1.262243167,400,West University ,30.287,-97.744,"45,000",1,0
-Calyptocarpus,Vialis,4,1.262243167,400,West University ,30.287,-97.744,"45,000",1,0
-Rhaphiolepis,Indica,1,1.262243167,400,West University ,30.287,-97.744,"45,000",1,0
-Sophora,Secundiflora,9,1.262243167,400,West University ,30.287,-97.744,"45,000",1,0
-Photinia,Fraseri,2,1.262243167,400,West University ,30.287,-97.744,"45,000",1,0
-Pistacia,Chinensis,3,1.067089519,1000, Mueller ,30.3058,-97.7098,"100,000",1,0
-Quercus,Stellata,3,1.067089519,1000, Mueller ,30.3058,-97.7098,"100,000",1,1
-Platanus ,Occidetalis,5,1.067089519,1000, Mueller ,30.3058,-97.7098,"100,000",1,1
-Rosa X,Noare,30,0.819748398,800,East Austin,30.285,-97.7327,"75,000",1,1
-Podocarpus,Macrophyllus,3,0.819748398,800,East Austin,30.285,-97.7327,"75,000",1,0
-Ficus,Pumila,2,0.819748398,800,East Austin,30.285,-97.7327,"75,000",1,1
-Canna,Indica,5,0.819748398,800,East Austin,30.285,-97.7327,"75,000",1,0
-Tecoma,Stans,2,1.543789185,1000,West University ,30.2842,-97.7444,"23,750",1,0
-Solanum ,Nigrum,4,1.543789185,1000,West University ,30.2842,-97.7444,"23,750",1,1
-Thymus,Serpyllum,5,1.543789185,1000,West University ,30.2842,-97.7444,"23,750",1,1
-Rhus ,Aromatica,2,1.543789185,1000,West University ,30.2842,-97.7444,"23,750",1,1
-Cleome,Spinosa,3,1.543789185,1000,West University ,30.2842,-97.7444,"23,750",1,1
-Carya,C. illinoinesis,3,1.002739954,300,Givens Park,30.2763,-97.6918,"62,876",1,1
-Pistacia,P.¬†chinensis,5,1.002739954,300,Givens Park,30.2763,-97.6918,"62,876",0,1
-Combretum,C. erythrophyllum,9,1.002739954,300,Givens Park,30.2763,-97.6918,"62,876",1,1
-Magnolia,Magnolia Virgininna,1,1.773105891,300,Huston-Tillotson Univ.,30.2646,-97.7223,"93,850",1,1
-Quercus,Q. acutissima,1,1.773105891,300,Huston-Tillotson Univ.,30.2646,-97.7223,"93,850",0,1
-Quercus,Q. lobata,1,1.773105891,300,Huston-Tillotson Univ.,30.2646,-97.7223,"93,850",0,1
-Ehretia,E. anacua,1,1.773105891,300,Huston-Tillotson Univ.,30.2646,-97.7223,"93,850",1,1
-Quercus,Q. alba,1,1.773105891,300,Huston-Tillotson Univ.,30.2646,-97.7223,"93,850",1,1
-Ulmus,P.¬†chinensis,1,1.773105891,300,Huston-Tillotson Univ.,30.2646,-97.7223,"93,850",0,1
-Populus,P. deltoides,1,1.773105891,300,Huston-Tillotson Univ.,30.2646,-97.7223,"93,850",1,1
-Lagerstroemia,L. indica,2,1.773105891,300,Huston-Tillotson Univ.,30.2646,-97.7223,"93,850",0,1
-Rosa,R. Altissimo,8,1.773105891,300,Huston-Tillotson Univ.,30.2646,-97.7223,"93,850",0,1
-Platanus,racemosa,2,2.026229623,100,Northeast Side,29.312,-98.1850,40129,1,1
-Ebenopsis,ebano,2,2.026229623,300,Northeast Side,29.312,-98.1850,40129,1,1
-Populus,simonii,2,2.026229623,200,Northeast Side,29.312,-98.1850,40129,1,1
-Quercus,virginiana,1,2.026229623,200,Northeast Side,29.31.2,-98.1850,40129,1,1
+Quercus,Virginia,1,1.098047972,"1,000.00",St Edwards,30.229,-97.753,43677,1,1
+Avicennia,Germinans,2,1.098047972,"1,000.00",St Edwards,30.229,-97.753,43677,1,1
+Ilex,Vomitoria,3,1.098047972,"1,000.00",St Edwards,30.229,-97.753,43677,1,1
+Coccinia,Grandis,12,1.098047972,"1,000.00",St Edwards,30.229,-97.753,43677,1,1
+Calystegia,Atriplifolia,21,1.098047972,"1,000.00",St Edwards,30.229,-97.753,43677,1,1
+Ruscus,Aculeatus,10,1.098047972,"1,000.00",St Edwards,30.229,-97.753,43677,1,1
+Amaranthus,Caudatus,100,1.098047972,"1,000.00",St Edwards,30.229,-97.753,43677,1,1
+Taxodium,Distichum,1,1.058684086,"1,000.00",Lady Bird Lake,30.285,-97.74,89258,0,1
+Arundo,Donax,30,1.058684086,"1,000.00",Lady Bird Lake,30.285,-97.74,89258,0,1
+Quercus,Laceyi,4,1.058684086,"1,000.00",Lady Bird Lake,30.285,-97.74,89258,0,1
+Bauhina,Purpurea,2,1.058684086,"1,000.00",Lady Bird Lake,30.285,-97.74,89258,0,1
+Optunia,Ficus- Indica,31,1.058684086,"1,000.00",Lady Bird Lake,30.285,-97.74,89258,0,1
+Leucophyllum,Frutescens,1,1.058684086,"1,000.00",Lady Bird Lake,30.285,-97.74,89258,0,1
+Prosopis,Glandulosa,150,1.058684086,"1,000.00",Lady Bird Lake,30.285,-97.74,89258,0,1
+Toxicodendron,Radicans,5,1.058684086,"1,000.00",Lady Bird Lake,30.285,-97.74,89258,0,1
+Catharanthus,Roseus,6,1.235144652,400,Sunset Valley,30.229,-97.822,141250,1,1
+Cupaniopsis,Anacardioides,1,1.235144652,400,Sunset Valley,30.229,-97.822,141250,1,1
+Pittosporum,Tobira,3,1.235144652,400,Sunset Valley,30.229,-97.822,141250,1,1
+Cornus,Drummondii,5,1.235144652,400,Sunset Valley,30.229,-97.822,141250,1,1
+Agave,Havardiana,6,1.489767364,500,West University ,30.266,-97.7404,112988,0,1
+Asparagus,Densiflorus,4,1.489767364,500,West University ,30.266,-97.7404,112988,0,0
+Crassula,Ovata,5,1.489767364,500,West University ,30.266,-97.7404,112988,0,0
+Washington,Robusta,1,1.489767364,500,West University ,30.266,-97.7404,112988,0,1
+Dasyliron,Texanum,3,1.489767364,500,West University ,30.266,-97.7404,112988,0,1
+Aloe ,Vera,1,1.329661349,235,Windsor Park,30.2383,-97.7169,64245,1,1
+Syngonium,Podophyllum,1,1.329661349,235,Windsor Park,30.2383,-97.7169,64245,1,0
+Buxus,Sempervirens,2,1.329661349,235,Windsor Park,30.2383,-97.7169,64245,1,0
+Cereus Forbesii,Spiralis,2,1.329661349,235,Windsor Park,30.2383,-97.7169,64245,1,0
+Cuphea,Ilavea,75,1.192839079,"1,000.00",Travis Heights,30.233,-97.748,114572,0,1
+Datura,Inoxia,70,1.192839079,"1,000.00",Travis Heights,30.233,-97.748,114572,0,0
+Nephila,Clavata,2,1.192839079,"1,000.00",Travis Heights,30.233,-97.748,114572,0,1
+Caesalpinia,Pulcherrima,66,1.192839079,"1,000.00",Travis Heights,30.233,-97.748,114572,0,1
+Hibiscus,Coccineus,300,1.192839079,"1,000.00",Travis Heights,30.233,-97.748,114572,0,1
+Sceloporus,Jarrovii,1,1.192839079,"1,000.00",Travis Heights,30.233,-97.748,114572,0,1
+Anolis,Carolinensis,3,1.192839079,"1,000.00",Travis Heights,30.233,-97.748,114572,0,1
+Carya ,Illinoinensis,1,1.047285178,"1,000.00",Sherwood Oaks,30.232,-97.751,114572,1,1
+Clematis,Drummondii,160,1.047285178,"1,000.00",Sherwood Oaks,30.232,-97.751,114572,1,1
+Lantana,Camara,210,1.047285178,"1,000.00",Sherwood Oaks,30.232,-97.751,114572,1,1
+Iris,Pseudacorus,56,1.047285178,"1,000.00",Sherwood Oaks,30.232,-97.751,114572,1,1
+Hibiscus,Syracus,2,1.047285178,"1,000.00",Sherwood Oaks,30.232,-97.751,114572,1,1
+Lagerstroemia,Indica,2,1.047285178,"1,000.00",Sherwood Oaks,30.232,-97.751,114572,1,1
+Pyrus,Calleryana,2,1.039720771,400,Travis Heights,30.228,-97.733,137486,1,1
+Quercus,Robur,1,1.039720771,400,Travis Heights,30.228,-97.733,137486,1,1
+Butia,Capitata,1,1.039720771,400,Travis Heights,30.228,-97.733,137486,1,1
+Rose,Abietina,1,1.193549604,235,East Austin,30.2716,-97.7249,86556,1,0
+Cycas,Revoluta,1,1.193549604,235,East Austin,30.2716,-97.7249,86556,1,0
+Porophyllum,Ruderale,4,1.193549604,235,East Austin,30.2716,-97.7249,86556,1,0
+Elaeagnus,Pungens,4,1.193549604,235,East Austin,30.2716,-97.7249,86556,1,0
+Ashe,Juniper,1,1.262243167,400,West University ,30.287,-97.744,45000,1,0
+Calyptocarpus,Vialis,4,1.262243167,400,West University ,30.287,-97.744,45000,1,0
+Rhaphiolepis,Indica,1,1.262243167,400,West University ,30.287,-97.744,45000,1,0
+Sophora,Secundiflora,9,1.262243167,400,West University ,30.287,-97.744,45000,1,0
+Photinia,Fraseri,2,1.262243167,400,West University ,30.287,-97.744,45000,1,0
+Pistacia,Chinensis,3,1.067089519,"1,000.00", Mueller ,30.3058,-97.7098,100000,1,0
+Quercus,Stellata,3,1.067089519,"1,000.00", Mueller ,30.3058,-97.7098,100000,1,1
+Platanus ,Occidetalis,5,1.067089519,"1,000.00", Mueller ,30.3058,-97.7098,100000,1,1
+Rosa X,Noare,30,0.819748398,800,East Austin,30.285,-97.7327,75000,1,1
+Podocarpus,Macrophyllus,3,0.819748398,800,East Austin,30.285,-97.7327,75000,1,0
+Ficus,Pumila,2,0.819748398,800,East Austin,30.285,-97.7327,75000,1,1
+Canna,Indica,5,0.819748398,800,East Austin,30.285,-97.7327,75000,1,0
+Tecoma,Stans,2,1.543789185,"1,000.00",West University ,30.2842,-97.7444,23750,1,0
+Solanum ,Nigrum,4,1.543789185,"1,000.00",West University ,30.2842,-97.7444,23750,1,1
+Thymus,Serpyllum,5,1.543789185,"1,000.00",West University ,30.2842,-97.7444,23750,1,1
+Rhus ,Aromatica,2,1.543789185,"1,000.00",West University ,30.2842,-97.7444,23750,1,1
+Cleome,Spinosa,3,1.543789185,"1,000.00",West University ,30.2842,-97.7444,23750,1,1
+Carya,C. illinoinesis,3,1.002739954,300,Givens Park,30.2763,-97.6918,62876,1,1
+Pistacia,P.¬†chinensis,5,1.002739954,300,Givens Park,30.2763,-97.6918,62876,0,1
+Combretum,C. erythrophyllum,9,1.002739954,300,Givens Park,30.2763,-97.6918,62876,1,1
+Magnolia,Magnolia Virgininna,1,1.773105891,300,Huston-Tillotson Univ.,30.2646,-97.7223,93850,1,1
+Quercus,Q. acutissima,1,1.773105891,300,Huston-Tillotson Univ.,30.2646,-97.7223,93850,0,1
+Quercus,Q. lobata,1,1.773105891,300,Huston-Tillotson Univ.,30.2646,-97.7223,93850,0,1
+Ehretia,E. anacua,1,1.773105891,300,Huston-Tillotson Univ.,30.2646,-97.7223,93850,1,1
+Quercus,Q. alba,1,1.773105891,300,Huston-Tillotson Univ.,30.2646,-97.7223,93850,1,1
+Ulmus,P.¬†chinensis,1,1.773105891,300,Huston-Tillotson Univ.,30.2646,-97.7223,93850,0,1
+Populus,P. deltoides,1,1.773105891,300,Huston-Tillotson Univ.,30.2646,-97.7223,93850,1,1
+Lagerstroemia,L. indica,2,1.773105891,300,Huston-Tillotson Univ.,30.2646,-97.7223,93850,0,1
+Rosa,R. Altissimo,8,1.773105891,300,Huston-Tillotson Univ.,30.2646,-97.7223,93850,0,1
+Platanus,racemosa,2,2.026229623,100,Northeast Side,29.312,-98.185,40129,1,1
+Ebenopsis,ebano,2,2.026229623,300,Northeast Side,29.312,-98.185,40129,1,1
+Populus,simonii,2,2.026229623,200,Northeast Side,29.312,-98.185,40129,1,1
+Quercus,virginiana,1,2.026229623,200,Northeast Side,29.31.2,-98.185,40129,1,1
 Garcinia,cymosa,2,2.026229623,100,Northeast Side,29.4863422,-98.41696,46688,1,0
-Cortaderia,speciosa,2,2.026229623,100,Northeast Side,29.4863422,-98.41696 ,46688,1,0
+Cortaderia,speciosa,2,2.026229623,100,Northeast Side,29.4863422,-98.41696,46688,1,0
 Washingtonia,robusta,3,2.026229623,200,Northeast Side,29.48633422,-98.41696,46688,1,1
 Quercus,virginiana,1,2.026229623,100,Northeast Side,29.486422,-98.41696,46688,1,0
 Acacia,koaia,2,1.08219553,100,Great Northwest,29.3824,-98.3731,124722,1,1
@@ -330,8 +330,8 @@ Acanthospermum,Australe,100,1.131164269,100,Downtown,29.258,-98.291,89102,1,1
 Trachelospermum,Asiaticum,2,1.131164269,100,Downtown,29.258,-98.291,89102,1,1
 Muhlenbergia,Frondosa,100,1.131164269,100,Downtown,29.258,-98.291,89102,1,1
 Malvastrum ,Coromandelianum,100,1.131164269,100,Downtown,29.258,-98.291,89102,1,1
-Calyptocarpus,Vialis,100,0.055546075,100,Northwest,29.3118,-98.3060,136833,1,0
-Callitris,Rhomboidea,1,0.055546075,100,Northwest,29.3118,-98.3060,136833,1,0
+Calyptocarpus,Vialis,100,0.055546075,100,Northwest,29.3118,-98.306,136833,1,0
+Callitris,Rhomboidea,1,0.055546075,100,Northwest,29.3118,-98.306,136833,1,0
 Buxus,Sempervines,4,0.253547675,200,Southwest,29.3743,-98.1513,38754,1,1
 Eriodictyon,Angustifolium,2,0.253547675,100,Southwest,29.3743,-98.1513,38754,1,0
 Rubus,Trivialis,100,0.253547675,100,Southwest,29.3743,-98.1513,38754,1,1
@@ -344,45 +344,45 @@ Kirkia,Acuminata,3,1.08219553,200,Northwest,29.5994,-98.6089,91366,1,0
 Vachellia,Cornigera,4,0.955699891,200,West,29.8225,-98.7715,132220,2,0
 Prosopis,Pallida,2,0.955699891,300,West,29.8225,-98.7715,13220,2,0
 Salix,Amygdaloides,1,0.955699891,100,West,29.8225,-98.7715,13220,2,0
-Quercus,Virginiana,2.00,1.697960321,250.00,Mueller,30.29764,-97.7057,84531.00,1,0
-Bauhinia ,Purpurea,15.00,1.697960321,250.00,Mueller,30.29764,-97.7057,84531.00,0,0
-Lagerstroemia,Indica,1.00,1.697960321,250.00,Mueller,30.29764,-97.7057,84531.00,0,0
-Quercus ,Bicolor,1.00,1.697960321,250.00,Mueller,30.29764,-97.7057,84531.00,0,0
-Quercus,Velutina,1.00,1.697960321,250.00,Mueller,30.29764,-97.7057,84531.00,1,0
-Carya,Illinoinensis,6.00,1.697960321,250.00,Mueller,30.29764,-97.7057,84531.00,1,0
-Salix,Babylonica,1.00,1.697960321,250.00,Mueller,30.29764,-97.7057,84531.00,0,0
-Taxodium,Distichum,8.00,1.697960321,250.00,Mueller,30.29764,-97.7057,84531.00,1,0
-Ulmus,Parvifolia,2.00,1.697960321,250.00,Mueller,30.29764,-97.7057,84531.00,0,0
-Carya ,Illinoinensis,3.00,1.908535282,200.00,Barton Creek,30.26321,-97.76861,101477.00,1,0
-Castanea,Mollissima,1.00,1.908535282,200.00,Barton Creek,30.26321,-97.76861,101477.00,0,0
-Dermatophyllum,Secundiflorum,4.00,1.908535282,200.00,Barton Creek,30.26321,-97.76861,101477.00,1,0
-Fraxinus,Veluntina,1.00,1.908535282,200.00,Barton Creek,30.26321,-97.76861,101477.00,0,0
-Quercus,Acutissima,1.00,1.908535282,200.00,Barton Creek,30.26321,-97.76861,101477.00,0,0
-Styphnolobium,Japonicum,2.00,1.908535282,200.00,Barton Creek,30.26321,-97.76861,101477.00,0,0
-Ulmus,Crassifolia,1.00,1.908535282,200.00,Barton Creek,30.26321,-97.76861,101477.00,1,0
-Ulmus,Pumila,1.00,1.908535282,200.00,Barton Creek,30.26321,-97.76861,101477.00,0,0
-Amerlanchier,Ovalis,1.00,1.610828921,250.00,Zilker,30.26944,-97.75892,131827.00,0,0
-Cardiospermum,Halicacabum,4.00,1.610828921,250.00,Zilker,30.26944,-97.75892,131827.00,0,0
-Gledtisia,Triacanthos,6.00,1.610828921,250.00,Zilker,30.26944,-97.75892,131827.00,1,0
-Morus ,Rubra,2.00,1.610828921,250.00,Zilker,30.26944,-97.75892,131827.00,1,0
-Populus,Deltoides,3.00,1.610828921,250.00,Zilker,30.26944,-97.75892,131827.00,1,0
-Rosa ,Abietina,8.00,1.610828921,250.00,Zilker,30.26944,-97.75892,131827.00,0,0
-Albelia,Chinensis,1.00,1.807804712,300.00,South Lamar,30.2284925,-97.8000786,141071.00,0,0
-Erigeron,Canadensis,6.00,1.807804712,300.00,South Lamar,30.2284925,-97.8000786,141071.00,1,0
-Euonymus,Alatus,1.00,1.807804712,300.00,South Lamar,30.2284925,-97.8000786,141071.00,0,0
-Ilex,Opaca,1.00,1.807804712,300.00,South Lamar,30.2284925,-97.8000786,141071.00,1,0
-Lagerstroemia,Indica,1.00,1.807804712,300.00,South Lamar,30.2284925,-97.8000786,141071.00,0,0
-Muhlenbergia,Dumosa,5.00,1.807804712,300.00,South Lamar,30.2284925,-97.8000786,141071.00,0,0
-Quercus,Fusiformis,5.00,1.807804712,300.00,South Lamar,30.2284925,-97.8000786,141071.00,1,0
-Quercus,Virginiana,2.00,1.807804712,300.00,South Lamar,30.2284925,-97.8000786,141071.00,1,0
-Ipomoea,Cordatotriloba,1.00,2.011866095,250.00,South Congress,30.2532751,-97.7381978,91719.00,1,0
-Juglans,Nigra,2.00,2.011866095,250.00,South Congress,30.2532751,-97.7381978,91719.00,1,0
-Latana,Camara,1.00,2.011866095,250.00,South Congress,30.2532751,-97.7381978,91719.00,1,0
-Leucaena,Leucocephala,1.00,2.011866095,250.00,South Congress,30.2532751,-97.7381978,91719.00,0,0
-Malvaviscus,Arboreus,2.00,2.011866095,250.00,South Congress,30.2532751,-97.7381978,91719.00,1,0
-Markhamia,Zanzibarica,1.00,2.011866095,250.00,South Congress,30.2532751,-97.7381978,91719.00,1,0
-Musa,Velutina,3.00,2.011866095,250.00,South Congress,30.2532751,-97.7381978,91719.00,0,0
-Prunus,Perisca,1.00,2.011866095,250.00,South Congress,30.2532751,-97.7381978,91719.00,0,0
-Punica,Granatum,1.00,2.011866095,250.00,South Congress,30.2532751,-97.7381978,91719.00,0,0
-Quercus,Virginiana,1.00,2.011866095,250.00,South Congress,30.2532751,-97.7381978,91719.00,1,0
-Solidago,Altissima,9.00,2.011866095,250.00,South Congress,30.2532751,-97.7381978,91719.00,1,0
+Quercus,Virginiana,2,1.697960321,250,Mueller,30.29764,-97.7057,84531,1,0
+Bauhinia ,Purpurea,15,1.697960321,250,Mueller,30.29764,-97.7057,84531,0,0
+Lagerstroemia,Indica,1,1.697960321,250,Mueller,30.29764,-97.7057,84531,0,0
+Quercus ,Bicolor,1,1.697960321,250,Mueller,30.29764,-97.7057,84531,0,0
+Quercus,Velutina,1,1.697960321,250,Mueller,30.29764,-97.7057,84531,1,0
+Carya,Illinoinensis,6,1.697960321,250,Mueller,30.29764,-97.7057,84531,1,0
+Salix,Babylonica,1,1.697960321,250,Mueller,30.29764,-97.7057,84531,0,0
+Taxodium,Distichum,8,1.697960321,250,Mueller,30.29764,-97.7057,84531,1,0
+Ulmus,Parvifolia,2,1.697960321,250,Mueller,30.29764,-97.7057,84531,0,0
+Carya ,Illinoinensis,3,1.908535282,200,Barton Creek,30.26321,-97.76861,101477,1,0
+Castanea,Mollissima,1,1.908535282,200,Barton Creek,30.26321,-97.76861,101477,0,0
+Dermatophyllum,Secundiflorum,4,1.908535282,200,Barton Creek,30.26321,-97.76861,101477,1,0
+Fraxinus,Veluntina,1,1.908535282,200,Barton Creek,30.26321,-97.76861,101477,0,0
+Quercus,Acutissima,1,1.908535282,200,Barton Creek,30.26321,-97.76861,101477,0,0
+Styphnolobium,Japonicum,2,1.908535282,200,Barton Creek,30.26321,-97.76861,101477,0,0
+Ulmus,Crassifolia,1,1.908535282,200,Barton Creek,30.26321,-97.76861,101477,1,0
+Ulmus,Pumila,1,1.908535282,200,Barton Creek,30.26321,-97.76861,101477,0,0
+Amerlanchier,Ovalis,1,1.610828921,250,Zilker,30.26944,-97.75892,131827,0,0
+Cardiospermum,Halicacabum,4,1.610828921,250,Zilker,30.26944,-97.75892,131827,0,0
+Gledtisia,Triacanthos,6,1.610828921,250,Zilker,30.26944,-97.75892,131827,1,0
+Morus ,Rubra,2,1.610828921,250,Zilker,30.26944,-97.75892,131827,1,0
+Populus,Deltoides,3,1.610828921,250,Zilker,30.26944,-97.75892,131827,1,0
+Rosa ,Abietina,8,1.610828921,250,Zilker,30.26944,-97.75892,131827,0,0
+Albelia,Chinensis,1,1.807804712,300,South Lamar,30.2284925,-97.8000786,141071,0,0
+Erigeron,Canadensis,6,1.807804712,300,South Lamar,30.2284925,-97.8000786,141071,1,0
+Euonymus,Alatus,1,1.807804712,300,South Lamar,30.2284925,-97.8000786,141071,0,0
+Ilex,Opaca,1,1.807804712,300,South Lamar,30.2284925,-97.8000786,141071,1,0
+Lagerstroemia,Indica,1,1.807804712,300,South Lamar,30.2284925,-97.8000786,141071,0,0
+Muhlenbergia,Dumosa,5,1.807804712,300,South Lamar,30.2284925,-97.8000786,141071,0,0
+Quercus,Fusiformis,5,1.807804712,300,South Lamar,30.2284925,-97.8000786,141071,1,0
+Quercus,Virginiana,2,1.807804712,300,South Lamar,30.2284925,-97.8000786,141071,1,0
+Ipomoea,Cordatotriloba,1,2.011866095,250,South Congress,30.2532751,-97.7381978,91719,1,0
+Juglans,Nigra,2,2.011866095,250,South Congress,30.2532751,-97.7381978,91719,1,0
+Latana,Camara,1,2.011866095,250,South Congress,30.2532751,-97.7381978,91719,1,0
+Leucaena,Leucocephala,1,2.011866095,250,South Congress,30.2532751,-97.7381978,91719,0,0
+Malvaviscus,Arboreus,2,2.011866095,250,South Congress,30.2532751,-97.7381978,91719,1,0
+Markhamia,Zanzibarica,1,2.011866095,250,South Congress,30.2532751,-97.7381978,91719,1,0
+Musa,Velutina,3,2.011866095,250,South Congress,30.2532751,-97.7381978,91719,0,0
+Prunus,Perisca,1,2.011866095,250,South Congress,30.2532751,-97.7381978,91719,0,0
+Punica,Granatum,1,2.011866095,250,South Congress,30.2532751,-97.7381978,91719,0,0
+Quercus,Virginiana,1,2.011866095,250,South Congress,30.2532751,-97.7381978,91719,1,0
+Solidago,Altissima,9,2.011866095,250,South Congress,30.2532751,-97.7381978,91719,1,0
